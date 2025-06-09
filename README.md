@@ -6,17 +6,9 @@ This repository contains code for predicting the **probability of measles case o
 
 Estimate the **weekly risk of measles outbreak** at the county level in Texas using:
 
-- Case-based surveillance (linelist) data 
-- Vaccination coverage
-- Demographic and age-structured population data
-- Mobility flows between counties
-- Distance to recent outbreak hotspots
-- Mennonite community presence
-- Rolling incidence and temporal lags
-
-
 ## Features Used
 
+- Case-based surveillance (linelist) data 
 - Vaccination rate (latest available)
 - % of population in age groups (0–4, 5–9, 10–17, 18-64, 65+)
 - Total population size
